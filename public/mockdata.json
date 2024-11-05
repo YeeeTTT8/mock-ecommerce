@@ -1,0 +1,76 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Samsung Galaxy S24 Ultra",
+      "price": "₹89,999",
+      "description": "The ultimate Android powerhouse, with a stunning display and groundbreaking camera.",
+      "category": "Mobile Phones",
+      "imageUrl": "/images/s24ultra.jpg"
+    },
+    {
+      "id": 2,
+      "name": "iPhone 16 Pro Max",
+      "price": "₹1,45,999",
+      "description": "The pinnacle of iPhone innovation, offering unparalleled performance and a pro-grade camera system.",
+      "category": "Mobile Phones",
+      "imageUrl": "/images/16promax.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Nothing Phone 2",
+      "price": "₹45,999",
+      "description": "A compact powerhouse, delivering incredible performance and a stunning display.",
+      "category": "Mobile Phones",
+      "imageUrl": "/images/nothing2.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Victus 16",
+      "price": "₹79,999",
+      "description": "A gaming beast with a powerful performance and immersive display.",
+      "category": "Laptops",
+      "imageUrl": "/images/vic.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Asus ROG Zephyrus G17",
+      "price": "₹1,25,999",
+      "description": "A sleek and powerful gaming laptop, perfect for both work and play.",
+      "category": "Laptops",
+      "imageUrl": "/images/rog.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Alienware Predator",
+      "price": "₹2,45,999",
+      "description": "The ultimate gaming laptop, with cutting-edge technology and aggressive design.",
+      "category": "Laptops",
+      "imageUrl": "/images/pred.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Moondrop Blessing 2",
+      "price": "₹23,999",
+      "description": "Renowned for its detailed sound, wide soundstage, and impressive bass response.",
+      "category": "Headphones",
+      "imageUrl": "/images/moo.jpeg"
+    },
+    {
+      "id": 8,
+      "name": "Sony WH-CH720N",
+      "price": "₹12,999",
+      "description": "Noise-canceling headphones for a peaceful listening experience.",
+      "category": "Headphones",
+      "imageUrl": "/images/sony.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Samsung Galaxy Buds2 Pro",
+      "price": "₹7,999",
+      "description": "Premium earbuds with crystal-clear sound and advanced features.",
+      "category": "Headphones",
+      "imageUrl": "/images/buds.jpg"
+    }
+  ]
+}
